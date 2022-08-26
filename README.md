@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behnazkhalili84
+- 👋 Hi, I’m behnaz
 - 👀 I’m interested in java
 - 🌱 I’m currently work at behsazan mellat co. as a designer and developer
 - 💞️ I’m looking to collaborate on java and spring project
